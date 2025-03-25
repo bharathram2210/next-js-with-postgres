@@ -1,4 +1,4 @@
-import { Inter, Lusitana,Josefin_Sans } from 'next/font/google';
+import { Inter, Josefin_Sans } from 'next/font/google';
 
 export const inter = Inter({ subsets: ['vietnamese'] });
 
